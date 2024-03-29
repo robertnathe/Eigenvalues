@@ -1,2 +1,2 @@
 # Power, Inverse Power, Rayleigh, QR Hessenberg Decomposition Eigenvalues
-The power eigenvalue algorithm, the inverse power eigenvalue algorithm, and the Rayleigh eigenvalue algorithm compute the dominant eigenvalue of the linear system of equations AX = B. The QR Hessenberg eigenvalue algorithm computes all the eigenvalues of the linear system of equations. The input files are A.dat and B.dat, and the output file is X.dat .
+The power eigenvalue algorithm, the inverse power eigenvalue method, and the Rayleigh eigenvalue algorithm compute the dominant eigenvalue of the linear system of equations AX = B. The QR Hessenberg eigenvalue algorithm computes all the eigenvalues of the linear system of equations. The input files are A.dat and B.dat, and the output file is X.dat .
