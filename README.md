@@ -82,7 +82,3 @@ printExecutionTime: Displays the execution time of an algorithm.
 printVector: Prints a vector to the console.
 
 printMatrix: Prints a matrix to the console.
-
-# Note
-
-This program is designed for educational and research purposes. For large-scale or performance-critical applications, consider using specialized linear algebra libraries or optimized implementations.
