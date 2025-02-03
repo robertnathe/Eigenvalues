@@ -70,11 +70,17 @@ X_out.dat: Output vector (eigenvector)
 # Functions
 
 writeMatrixMarketMatrix: Writes a matrix to a file in Matrix Market format.
+
 writeMatrixMarketVector: Writes a vector to a file in Matrix Market format.
+
 readMatrixMarketMatrix: Reads a matrix from a file in Matrix Market format.
+
 readMatrixMarketVector: Reads a vector from a file in Matrix Market format.
+
 printExecutionTime: Displays the execution time of an algorithm.
+
 printVector: Prints a vector to the console.
+
 printMatrix: Prints a matrix to the console.
 
 # Note
