@@ -28,27 +28,36 @@ Eigen library (version 3.3 or later)
 1. Compile the program using your C++ compiler.
 2. Prepare input files:
   A.dat: Matrix Market format file containing the input matrix
+
   B.dat: Matrix Market format file containing the initial vector (for iterative methods)
-3. Run the executable.
+  
+4. Run the executable.
 
 # Input File Format
 
 The program uses the Matrix Market format for input files. The format is as follows:
 
 %%MatrixMarket matrix coordinate real general
+
 <num_rows> <num_cols> <num_entries>
+
 <row> <col> <value>
+
 <row> <col> <value>
 
 # Output
 
 The program will output:
 The input matrix and vector
+
 The calculated eigenvalues and eigenvectors
+
 Execution time for each algorithm
 
 Results are displayed in the console and also written to output files:
+
 A_out.dat: Output matrix (if applicable)
+
 X_out.dat: Output vector (eigenvector)
 
 # Algorithms
