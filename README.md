@@ -1,4 +1,4 @@
-# Power, Inverse Power, Rayleigh, QR Hessenberg Decomposition, and Arnoldi Krylov Subspace Eigenvalues
+# Power, Inverse Power, Rayleigh Quotient, QR Hessenberg Decomposition, and Arnoldi Krylov Subspace Eigenvalues
 
 The power iteration, the inverse power iteration, and the Rayleigh iteration algorithms compute the dominant eigenvalue of the linear system of equations AX = B. The QR Hessenberg decomposition and Arnoldi Krylov subspace algorithms compute all the eigenvalues and eigenvectors of the linear system of equations.
 
