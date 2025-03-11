@@ -1,6 +1,6 @@
 # Power, Inverse Power, Rayleigh Quotient, QR Hessenberg Decomposition, and Arnoldi Krylov Subspace Eigenvalues
 
-The power iteration, the inverse power iteration, and the Rayleigh iteration algorithms compute the dominant eigenvalue of the linear system of equations AX = B. The QR Hessenberg decomposition and Arnoldi Krylov subspace algorithms compute all the eigenvalues and eigenvectors of the linear system of equations.
+The power iteration, the inverse power iteration, and the Rayleigh quotient iteration algorithms compute the dominant eigenvalue of the linear system of equations AX = B. The QR Hessenberg decomposition and Arnoldi Krylov subspace algorithms compute all the eigenvalues and eigenvectors of the linear system of equations.
 
 # Eigenvalue and Eigenvector Calculator
 
@@ -10,7 +10,7 @@ This C++ program implements various algorithms to calculate eigenvalues and eige
 
 1. Power Iteration Algorithm
 2. Inverse Power Iteration Algorithm
-3. Rayleigh Iteration Algorithm
+3. Rayleigh Quotient Iteration Algorithm
 4. QR Hessenberg Direct Algorithm
 5. Arnoldi Krylov Subspace Algorithm 
 
@@ -65,7 +65,7 @@ X_out.dat: Output vector (eigenvector)
 
 1. Power Iteration: Calculates the dominant eigenvalue and corresponding eigenvector.
 2. Inverse Power Iteration: Finds the smallest eigenvalue and its eigenvector.
-3. Rayleigh Iteration: Uses the Rayleigh quotient to quickly converge to an eigenvalue.
+3. Rayleigh Quotient Iteration: Uses the Rayleigh quotient to quickly converge to an eigenvalue.
 4. QR Hessenberg: Direct method to calculate all eigenvalues and eigenvectors.
 5. Arnoldi Krylov Subspace: Iterative method of calculate all eigenvalues and eigenvectors.
 
